@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//GonzaloDeCastro.github.io/Problema-6/static/css/main.2c4e8a4e.css",
+    "main.js": "//GonzaloDeCastro.github.io/Problema-6/static/js/main.601e19cf.js",
+    "index.html": "//GonzaloDeCastro.github.io/Problema-6/index.html",
+    "main.2c4e8a4e.css.map": "//GonzaloDeCastro.github.io/Problema-6/static/css/main.2c4e8a4e.css.map",
+    "main.601e19cf.js.map": "//GonzaloDeCastro.github.io/Problema-6/static/js/main.601e19cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c4e8a4e.css",
+    "static/js/main.601e19cf.js"
+  ]
+}

@@ -24,11 +24,18 @@ Puedes abrir la PowerShell desde Visual Studio Code o directamente desde la Powe
 Escribe en la PowerShell "git clone https://github.com/GonzaloDeCastro/Problema-6/"
 ```
 
-3. Ver el proyecto de forma local
+3. Instalación del proyecto de forma local
 
 ```
-Busca la ruta en donde descargaste el proyecto, entra y da click en el archivo index.html, se abrirá el navegador y verás la App
+Busca la ruta en donde descargaste el proyecto, entra a dicha carpeta a través de la powershell y luego tipea "npm install"
 ```
+
+4. Ejecución del proyecto de forma local
+
+```
+Luego de haber instalado todos los paquetes, tipea "npm start"
+```
+
 
 ### Desarrollado por
 

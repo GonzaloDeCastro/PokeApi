@@ -1,4 +1,4 @@
-# Problema-6
+# PokeAPI
 
 Crear una página en donde se muestre un campo de texto que permita buscar en el
 siguiente API: https://pokeapi.co/, por el número o nombre del pokémon y muestre en

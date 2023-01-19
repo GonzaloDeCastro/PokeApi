@@ -1,6 +1,6 @@
 # PokeAPI
 
-Crear una página en donde se muestre un campo de texto que permita buscar en el
+App donde se muestra un campo de texto que permite buscar en el
 siguiente API: https://pokeapi.co/, por el número o nombre del pokémon y muestre en
 pantalla los siguientes datos: Nombre, número, tipo, peso, altura y una imágen.
 
